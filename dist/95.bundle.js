@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhotel_booking=self.webpackChunkhotel_booking||[]).push([[95],{35095:function(e,n,t){t.r(n);var o=t(87363),u=t.n(o);n.default=function(){return u().createElement("div",null,"Page not found 404")}}}]);
